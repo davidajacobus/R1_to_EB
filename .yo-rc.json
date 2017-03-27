@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "David Jacobus",
+      "authorEmail": "davidajacobus@gmail.com",
+      "authorUrl": "https://github.com/djacobus"
+    }
+  }
+}
