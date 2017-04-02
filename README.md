@@ -12,7 +12,7 @@ $ npm install --save r-1-to-eb
 ```js
 const r1ToEb = require('r-1-to-eb');
 
-r1ToEb('Rainbow');
+r1ToEb();
 ```
 
 ## Information
