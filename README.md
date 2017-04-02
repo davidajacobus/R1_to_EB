@@ -1,4 +1,4 @@
-# r-1-to-eb [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# r1-to-eb 
 > ResilienceONE API to Everbridge API data sync
 
 ## Information
