@@ -1,20 +1,6 @@
 # r-1-to-eb [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > ResilienceONE API to Everbridge API data sync
 
-## Installation
-
-```sh
-$ npm install --save r-1-to-eb
-```
-
-## Usage
-
-```js
-const r1ToEb = require('r-1-to-eb');
-
-r1ToEb();
-```
-
 ## Information
 As is product that will map data from ReslienceONE to Everbridge. Important to note is that you MUST know the identity values for Everbridge in order to map certain content, such as Paths. Use the corresponding API(s) to gather this information. Samples provided using curl.
   
