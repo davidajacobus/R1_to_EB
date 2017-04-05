@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/djacobus/R1_to_EB.png?label=ready&title=Ready)](https://waffle.io/djacobus/R1_to_EB)
 # r1-to-eb 
 > ResilienceONE API to Everbridge API data sync
 
